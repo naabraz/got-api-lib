@@ -1,0 +1,20 @@
+{
+  "name": "got-api-lib",
+  "version": "1.0.0",
+  "description": "Lib to make api requests",
+  "main": "index.js",
+  "repository": "https://github.com/naabraz/got-api-lib",
+  "author": "Natalia Braz <naabraz@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
